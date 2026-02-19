@@ -25,7 +25,4 @@ The web export (`index.html`, `.wasm`, `.pck`, `.js`) is served directly as a st
 
 ---
 
-## 📜 License
-This project is released under the **GPL License**, making it fully open-source and free to modify.
 
----
